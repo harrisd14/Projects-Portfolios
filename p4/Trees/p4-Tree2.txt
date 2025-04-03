@@ -1,0 +1,12 @@
+C1 Red
+C2 Green L
+C3 Yellow R
+C4 Red RL
+C5 Yellow RR
+C6 Green RLL
+C7 Blue RLR
+C8 Orange RRL
+C9 Black RRR
+C10 Green RLLL
+C11 Purple RRLL
+C12 Red RLLLL

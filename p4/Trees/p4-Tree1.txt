@@ -1,0 +1,9 @@
+Jacksonville Magenta
+Miami Yellow L
+Chicago DarkGreen R
+Omaha Purple LL
+Boston Yellow RL
+NYC Magenta RR
+Orlando Amber LLR
+Atlanta Pink RRL
+Tampa Magenta RRR
